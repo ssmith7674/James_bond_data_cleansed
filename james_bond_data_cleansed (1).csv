@@ -1,0 +1,26 @@
+bond_actor,bond_kills,car_manufacturer,film_length,imdb,income_usa,income_world,martinis_consumed,movie_budget,movie_title,release_date,rotten_tomatoes,release_year
+Sean Connery,4,Sunbeam,110,7.3,16067035,59567035,2,1000000,Dr. No,06-01-62,7.7,1962
+Sean Connery,11,Bentley,115,7.5,24800000,78900000,0,2000000,From Russia with Love,08-01-63,8,1963
+Sean Connery,9,Aston Martin,110,7.8,51100000,124900000,1,3000000,Goldfinger,05-01-64,8.4,1964
+Sean Connery,20,Aston Martin,130,7,63600000,141200000,0,9000000,Thunderball,09-01-65,6.8,1965
+Sean Connery,21,Toyota,117,6.9,43100000,111600000,1,9500000,You Only Live Twice,11-01-67,6.3,1967
+George Lazenby,5,Mercury,142,6.8,22800000,82000000,1,8000000,On Her Majesty's Secret Service,07-01-69,6.7,1969
+Sean Connery,7,Ford,120,6.7,43800000,116000000,0,7200000,Diamonds Are Forever,03-01-71,6.3,1971
+Roger Moore,8,AMC,121,6.8,35400000,161800000,0,7000000,Live and Let Die,08-01-73,5.9,1973
+Roger Moore,1,AMC,125,6.7,21000000,97600000,0,7000000,The Man with the Golden Gun,07-01-74,5.1,1974
+Roger Moore,31,Lotus,125,7.1,46800000,185400000,1,14000000,The Spy Who Loved Me,04-01-77,6.8,1977
+Roger Moore,12,Lotus,126,6.2,70300000,210300000,1,31000000,Moonraker,10-01-79,5.7,1979
+Roger Moore,18,Citroen,127,6.8,54800000,195300000,0,28000000,For Your Eyes Only,06-01-81,6.3,1981
+Roger Moore,15,Bajaj,131,6.5,67900000,187500000,0,27500000,Octopussy,03-01-83,5.3,1983
+Roger Moore,5,Rolls Royce,131,6.2,50327960,152627960,0,30000000,A View to a Kill,10-01-85,4.7,1985
+Timothy Dalton,13,Rolls Royce,130,6.7,51185000,191200000,2,40000000,The Living Daylights,05-01-87,6.3,1987
+Timothy Dalton,10,Aston Martin,133,6.5,34667015,156167015,1,42000000,License to Kill,01-01-89,6,1989
+Pierce Brosnan,47,BMW,130,7.2,106429941,356429941,1,60000000,GoldenEye,09-01-95,6.9,1995
+Pierce Brosnan,30,Aston Martin,119,6.4,125304276,339504276,1,110000000,Tomorrow Never Dies,07-01-97,6,1997
+Pierce Brosnan,27,BMW,128,6.3,126930660,361730660,1,135000000,The World Is Not Enough,06-01-99,5.7,1999
+Pierce Brosnan,31,Aston Martin,133,6,160942139,431942139,2,142000000,Die Another Day,08-01-02,6.1,2002
+Daniel Craig,11,Aston Martin,144,7.9,167365000,596365000,3,102000000,Casino Royale,02-01-06,7.8,2006
+Daniel Craig,16,Aston Martin,106,6.7,169368427,591692078,6,230000000,Quantum of Solace,12-01-08,6.1,2008
+Daniel Craig,26,Aston Martin,143,7.8,304360277,1108561108,1,200000000,Skyfall,11-01-12,8.2,2012
+Daniel Craig,30,Aston Martin,148,6.8,200074175,879620923,1,245000000,Spectre,09-01-15,6.4,2015
+Daniel Craig,14,Aston Martin,163,7.3,160891007,759959662,1,275000000,No Time to Die,11-01-21,7.3,2021
